@@ -1,0 +1,37 @@
+Race,Year,Geography,Population,Share
+White,2015,rhode island,848845,0.80360372
+White,2014,rhode island,858236,0.81336047
+White,2013,rhode island,846102,0.8046535
+Asian,2015,rhode island,35540,0.03364581
+Asian,2014,rhode island,35676,0.03381057
+Asian,2013,rhode island,33240,0.03161165
+Black,2015,rhode island,65504,0.0620128
+Black,2014,rhode island,70600,0.06690846
+Black,2013,rhode island,67541,0.06423233
+Hispanic,2015,rhode island,28541,
+Hispanic,2014,rhode island,24874,
+Hispanic,2013,rhode island,28039,
+White,2015,hartford,643989,0.71886529
+White,2014,hartford,651664,0.72569586
+White,2013,hartford,649107,0.72261742
+Asian,2015,hartford,43178,0.048198285
+Asian,2014,hartford,44427,0.0494741
+Asian,2013,hartford,43202,0.04809456
+Black,2015,hartford,124104,0.13853351
+Black,2014,hartford,120884,0.13461695
+Black,2013,hartford,121320,0.13505931
+Hispanic,2015,hartford,22528,
+Hispanic,2014,hartford,25192,
+Hispanic,2013,hartford,27279,
+White,2015,vermont,593056,0.94731024
+White,2014,vermont,591853,0.94460405
+White,2013,vermont,595148,0.94975983
+Asian,2015,vermont,8627,0.01378023
+Asian,2014,vermont,9933,0.01585318
+Asian,2013,vermont,7640,0.012192208
+Black,2015,vermont,7996,0.01277231
+Black,2014,vermont,6164,0.00983781
+Black,2013,vermont,7184,0.0114645
+Hispanic,2015,vermont,1456,
+Hispanic,2014,vermont,1279,
+Hispanic,2013,vermont,827,
